@@ -39,3 +39,10 @@ Home Page ![Home Page](https://github.com/ShardulDave/Online-FIR-Management-Syst
   * [Phase 3](https://github.com/ShardulDave/Online-FIR-Management-System/blob/master/pics/Picture10.png)
   * [Phase 4](https://github.com/ShardulDave/Online-FIR-Management-System/blob/master/pics/Picture11.png)
 
+## References
+
+  * Ontario Police Department (https://www.oiprd.on.ca/)
+  * New York Police Department (https://www1.nyc.gov/site/ccrb/complaints/file-online.page)
+  * Toronto Police Department (https://www.torontopolice.on.ca/community-complaints/)
+
+
