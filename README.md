@@ -4,7 +4,7 @@
 A web application used to lodge complaints to the police officer. 
 
 
-  * In India police complaint is called FIR. 
+  * In India, a police complaint is called FIR. 
   * **FIR-First Information Report**
  
 Home Page ![Home Page](https://github.com/ShardulDave/Online-FIR-Management-System/blob/master/pics/Picture1.png)
